@@ -1,5 +1,8 @@
 # 🔊 Portable Audio Amplifier PCB: Low-Noise Design & Power Management 🔋
 
+| Schematic | PCB Layout | Fabricated PCB |
+|----------|-------------|----------------|
+| ![Schematic](HAA Schema.png)| ![PCB Layout](HAA PCB.png) | ![Fabricated PCB](HAA front PCB.jpg) |
 
 This repository showcases the complete 2-layer PCB design for a compact, portable audio amplifier, integrating robust power management with a high-fidelity audio stage. The project focuses on solving critical challenges in **mixed-signal design** to ensure a clean audio output despite operating alongside noisy switching power electronics.
 
