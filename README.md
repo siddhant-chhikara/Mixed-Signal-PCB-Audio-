@@ -2,7 +2,7 @@
 
 | Schematic | PCB Layout | Fabricated PCB |
 |----------|-------------|----------------|
-| (https://github.com/siddhant-chhikara/Mixed-Signal-PCB-Audio-/blob/main/HAA%20Schema.png)| (https://github.com/siddhant-chhikara/Mixed-Signal-PCB-Audio-/blob/main/HAA%20PCB.png) | (https://github.com/siddhant-chhikara/Mixed-Signal-PCB-Audio-/blob/main/HAA%20fab%20FRONT.jpg) |
+| ![Schematic](HAA%20Schema.png)| ![PCB Layout](HAA%20PCB.png) | ![Fabrication Front](HAA%20fab%20FRONT.jpg) |
 
 This repository showcases the complete 2-layer PCB design for a compact, portable audio amplifier, integrating robust power management with a high-fidelity audio stage. The project focuses on solving critical challenges in **mixed-signal design** to ensure a clean audio output despite operating alongside noisy switching power electronics.
 
