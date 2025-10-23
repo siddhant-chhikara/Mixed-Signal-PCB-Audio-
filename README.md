@@ -1,6 +1,5 @@
 # 🔊 Portable Audio Amplifier PCB: Low-Noise Design & Power Management 🔋
 
-*(Add your best image here: a beautiful 3D render of your PCB, or a photo of the assembled board once you have it!)*
 
 This repository showcases the complete 2-layer PCB design for a compact, portable audio amplifier, integrating robust power management with a high-fidelity audio stage. The project focuses on solving critical challenges in **mixed-signal design** to ensure a clean audio output despite operating alongside noisy switching power electronics.
 
@@ -42,13 +41,3 @@ The PCB was designed with fabrication and assembly in mind:
 * **Through-Hole Connectors:** All external connections (power input, battery, speakers, AUX) utilize robust through-hole pads for reliable soldering and repeated use.
 * **Clear Silkscreening:** Component labels and polarity indicators ensure correct assembly.
 
-## **Design Files & Fabrication**
-
-* `My_Audio_Project.sch` - Schematic Capture (EasyEDA)
-* `My_Audio_Project.kicad_pcb` - PCB Layout (EasyEDA)
-* `Gerbers.zip` - Fabrication-ready Gerber files
-* `BOM.csv` - Bill of Materials
-
-## **License**
-
-This project is open-source and licensed under the [MIT License](LICENSE).
